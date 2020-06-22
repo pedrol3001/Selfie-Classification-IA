@@ -1,3 +1,5 @@
+# Selfie Classifier IA
+
 As 2 ias implementadas com random forest estão em arquivos diferentes
 o classifier.py e o regressor.py cada um com seus respectivos tipos
 
