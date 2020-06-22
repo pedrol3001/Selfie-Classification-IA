@@ -1,7 +1,4 @@
-
-IIa using Random Forest to classify selfies
-
-As 2 ias implementadas com random forest estão em qruivos diferentes
+As 2 ias implementadas com random forest estão em arquivos diferentes
 o classifier.py e o regressor.py cada um com seus respectivos tipos
 
 Para os testes, levar em conta as variaveis :
