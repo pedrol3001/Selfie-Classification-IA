@@ -1,14 +1,8 @@
-# Selfie Classifier IA
+# Selfie Classification IA
 
-As 2 ias implementadas com random forest estão em arquivos diferentes
-o classifier.py e o regressor.py cada um com seus respectivos tipos
+Inteligência artificial com o propósito de classificar a qualidade de uma foto de acordo com as características observadas por uma rede neural.
 
-Para os testes, levar em conta as variaveis :
-Elas devem ser alteras para diferentes funcionalidades pois 
-o istrained = false salva em um .pkl que pode ser reutilizado ao setar istrainde = true
+Obs:
 
-isTrained = False
-min_importance = 0.04
-n_estimators = 200
-retrain = True
+        Todas as informações a respeito da redeneural estão presentes no relatório.
 
