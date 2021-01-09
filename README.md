@@ -4,5 +4,5 @@ Inteligência artificial com o propósito de classificar a qualidade de uma foto
 
 Obs:
 
-        Todas as informações a respeito da redeneural estão presentes no relatório.
+        Todas as informações a respeito da rede neural estão presentes no relatório.
 
