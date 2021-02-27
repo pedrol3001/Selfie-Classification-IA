@@ -1,8 +1,8 @@
 # Selfie Classification IA
 
-Inteligência artificial com o propósito de classificar a qualidade de uma foto de acordo com as características observadas por uma rede neural.
+Artificial intelligence to classify the quality of a photo according to the characteristics observed by a neural network.
 
 Obs:
 
-        Todas as informações a respeito da rede neural estão presentes no relatório.
+       All information regarding the neural network is present in the report in the repository folder.
 
